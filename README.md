@@ -43,5 +43,5 @@ $ alembic upgrade head
 To run the tests, execute:
 
 ```sh
-pytest -v
+$ pytest -v
 ```
